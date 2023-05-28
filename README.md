@@ -10,7 +10,7 @@
 
 - 📄 Check out my [resume](https://github.com/TanyaR14/Resume/blob/main/Tanya%20Rajani%20Resume.pdf) here!
 
-- 🦮 Tid-bit: **I love umm joey the most in the world**
+-  Tid-bit: **I love protesting through poetry.**
 
 - 👨🏻‍💻 Check out my [portfolio](https://github.com/TanyaR14/Portfolio) if you're an employer or just a curious cat 
 
