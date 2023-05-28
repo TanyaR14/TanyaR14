@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Helllooo 👋, I'm Tanya Rajani</h1>
+<br>
+<h3 align="center">Interested in 🐶 and 🐘</h3>
+<br>
 
-<!--
-**TanyaR14/TanyaR14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+- 🌱 I’m currently being a cutie
 
-Here are some ideas to get you started:
+- 📫 Email me at **rajanitanya1@gmail.com** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Check out my [resume](https://drive.google.com/file/d/1glpJcmluSoDOlUy6VdlIfl0Pg7CE5MMF/view?usp=sharing)
+
+- ⚡ Tid-bit: **I love umm joey the most in the world**
+
+- 👨🏻‍💻 Check out my [PersonalProjects](https://github.com/noelwar/PersonalProjects) if you're an employer or just a curious cat
